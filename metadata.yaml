@@ -1,5 +1,8 @@
 _repo: Vandorlasaim-es-elmenyeim-Persiaban_66578
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vámbéry, Ármin
@@ -16,6 +19,8 @@ creator:
     - https://hu.wikipedia.org/wiki/V%C3%A1mb%C3%A9ry_%C3%81rmin
     - https://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66578#Vandorlasaim-es-elmenyeim-Persiaban
 gutenberg_issued: '2021-10-20'
 identifiers:
   gutenberg: '66578'
